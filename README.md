@@ -1,0 +1,1 @@
+[![Stories in Ready](https://badge.waffle.io/jpeterson/explore-waffle.png?label=ready&title=Ready)](http://waffle.io/jpeterson/explore-waffle)
