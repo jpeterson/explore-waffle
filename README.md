@@ -4,5 +4,3 @@
 
 ### Throughput Graph
 [![Throughput Graph](https://graphs.waffle.io/jpeterson/explore-waffle/throughput.svg)](https://waffle.io/jpeterson/explore-waffle/metrics)
-
-…
