@@ -1,0 +1,666 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document><Folder><name>OGRGeoJSON</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="ParcelID">43481</SimpleData>
+		<SimpleData name="APN">6412706100</SimpleData>
+		<SimpleData name="Situs">00000 MOUNT WHITNEY RD</SimpleData>
+		<SimpleData name="DocType">1</SimpleData>
+		<SimpleData name="DocNumber">478108</SimpleData>
+		<SimpleData name="DocDate">121603</SimpleData>
+		<SimpleData name="MapNumber">014526     </SimpleData>
+		<SimpleData name="OwnerStatus">NS</SimpleData>
+		<SimpleData name="OwnerName">OTAY RANCH THREE COMMUNITY ASSN</SimpleData>
+		<SimpleData name="StreetNo">999999</SimpleData>
+		<SimpleData name="AddrFract"></SimpleData>
+		<SimpleData name="StreetDir"></SimpleData>
+		<SimpleData name="StreetName">MOUNT WHITNEY RD</SimpleData>
+		<SimpleData name="AddrUnit"></SimpleData>
+		<SimpleData name="Zone1">SF3</SimpleData>
+		<SimpleData name="Zone2"></SimpleData>
+		<SimpleData name="Zone3"></SimpleData>
+		<SimpleData name="Zone4"></SimpleData>
+		<SimpleData name="Zone5"></SimpleData>
+		<SimpleData name="RLUC1">45300</SimpleData>
+		<SimpleData name="RLUC2"></SimpleData>
+		<SimpleData name="RLUC3"></SimpleData>
+		<SimpleData name="RLUC4"></SimpleData>
+		<SimpleData name="RLUC5"></SimpleData>
+		<SimpleData name="SDLUC1">4118</SimpleData>
+		<SimpleData name="SDLUC2"></SimpleData>
+		<SimpleData name="SDLUC3"></SimpleData>
+		<SimpleData name="SDLUC4"></SimpleData>
+		<SimpleData name="SDLUC5"></SimpleData>
+		<SimpleData name="GenPlan1">RLM</SimpleData>
+		<SimpleData name="GenPlan2"></SimpleData>
+		<SimpleData name="GenPlan3"></SimpleData>
+		<SimpleData name="GenPlan4"></SimpleData>
+		<SimpleData name="GenPlan5"></SimpleData>
+		<SimpleData name="StudyArea"></SimpleData>
+		<SimpleData name="SPA">ORV1W</SimpleData>
+		<SimpleData name="PC">PC10</SimpleData>
+		<SimpleData name="Subdivision"></SimpleData>
+		<SimpleData name="Basin">PCB</SimpleData>
+		<SimpleData name="AQIP"></SimpleData>
+		<SimpleData name="Juris">CV</SimpleData>
+		<SimpleData name="Comm">E</SimpleData>
+		<SimpleData name="Redev"></SimpleData>
+		<SimpleData name="Acres1">1.41</SimpleData>
+		<SimpleData name="Acres2">0</SimpleData>
+		<SimpleData name="Acres3">0</SimpleData>
+		<SimpleData name="Acres4">0</SimpleData>
+		<SimpleData name="Acres5">0</SimpleData>
+		<SimpleData name="AcresTot">1.41</SimpleData>
+		<SimpleData name="Units1">0</SimpleData>
+		<SimpleData name="Units2">0</SimpleData>
+		<SimpleData name="Units3">0</SimpleData>
+		<SimpleData name="Units4">0</SimpleData>
+		<SimpleData name="Units5">0</SimpleData>
+		<SimpleData name="UnitsTot">0</SimpleData>
+		<SimpleData name="PlannedUnits">0</SimpleData>
+		<SimpleData name="Comments">PRIVATE STREET</SimpleData>
+		<SimpleData name="BPL">MOUNT WHITNEY RD</SimpleData>
+		<SimpleData name="CensusBlock">1000</SimpleData>
+		<SimpleData name="CensusTract">13310</SimpleData>
+		<SimpleData name="Lot">B</SimpleData>
+		<SimpleData name="BldgNo"></SimpleData>
+		<SimpleData name="MapNo">014526</SimpleData>
+		<SimpleData name="OldLuiAPN">6410720300</SimpleData>
+		<SimpleData name="ProjectNo"></SimpleData>
+		<SimpleData name="ProjectName">ORV1W</SimpleData>
+		<SimpleData name="SetbacksFront">00</SimpleData>
+		<SimpleData name="SetbacksSide1"></SimpleData>
+		<SimpleData name="SetbacksSide2"></SimpleData>
+		<SimpleData name="SetbacksRear"></SimpleData>
+		<SimpleData name="AuxCode"></SimpleData>
+		<SimpleData name="TAZ">492</SimpleData>
+		<SimpleData name="Project">ORV1W</SimpleData>
+		<SimpleData name="YearBuilt">00</SimpleData>
+		<SimpleData name="MapURL">http://gis.chulavistaca.gov/findandmapparcel.html?apn=6412706100</SimpleData>
+		<SimpleData name="HistSiteName"></SimpleData>
+		<SimpleData name="IsHistSite">NO</SimpleData>
+		<SimpleData name="IsHistSurveyed">NO</SimpleData>
+		<SimpleData name="IsMillsAct">NO</SimpleData>
+		<SimpleData name="HistYearBuilt">00</SimpleData>
+		<SimpleData name="HistHouseName"></SimpleData>
+		<SimpleData name="HistSiteNo"></SimpleData>
+		<SimpleData name="HistStatusCode"></SimpleData>
+		<SimpleData name="HistHouseAddress"></SimpleData>
+		<SimpleData name="RecID">{9E02730B-E3B3-4B33-A42A-209AD84E823D}</SimpleData>
+		<SimpleData name="OBJECTID">23769</SimpleData>
+		<SimpleData name="LIVAREA">0</SimpleData>
+		<SimpleData name="StreetAddress">999999 MOUNT WHITNEY RD</SimpleData>
+		<SimpleData name="SitusZip">91913</SimpleData>
+		<SimpleData name="FmtStreetAddress">999999 MOUNT WHITNEY RD</SimpleData>
+		<SimpleData name="FmtStreetNo">999999</SimpleData>
+		<SimpleData name="OwnAddr1">C/O DON ROSS 350 W ASH ST #730</SimpleData>
+		<SimpleData name="OwnAddr2">SAN DIEGO CA 92101</SimpleData>
+		<SimpleData name="Book">641</SimpleData>
+		<SimpleData name="Page">270</SimpleData>
+		<SimpleData name="Parcel">61</SimpleData>
+		<SimpleData name="ParcelStatus">A</SimpleData>
+		<SimpleData name="PrimaryParcelFlag">Y</SimpleData>
+		<SimpleData name="SourceSeqNbr">1</SimpleData>
+		<SimpleData name="CZone">7</SimpleData>
+		<SimpleData name="FloodPlain">NO</SimpleData>
+		<SimpleData name="VHFHZ">NO</SimpleData>
+		<SimpleData name="BldInspBeat">3</SimpleData>
+		<SimpleData name="CodeInspBeat">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-117.007833810337175,32.618120930157694 -117.007830542149179,32.618118531828053 -117.007825656385037,32.618116857616563 -117.007820758347165,32.618113754242231 -117.007815861022138,32.618110733822313 -117.007812592834952,32.618108335492202 -117.007809292917472,32.618105964408947 -117.00780605669344,32.618103565882045 -117.007802776937837,32.618099820441884 -117.007799506149624,32.618097119146917 -117.007796234896972,32.618094363751091 -117.007792952075704,32.61809026124547 -117.007789666180599,32.618085800772782 -117.007786377459553,32.618081011186895 -117.007783091812897,32.618076579567827 -117.007781438601953,32.6180731541547 -117.007779773590272,32.618068354581361 -117.007778120379612,32.618064929168185 -117.007776467169094,32.618061503754994 -117.007774813958704,32.618058078341782 -117.007773145873571,32.618052920801453 -117.007773101744561,32.618047782127796 -117.007771416571842,32.618044356911135 -117.007771369368839,32.618038860270516 -117.007771324992149,32.618033692743097 -117.007771277789175,32.61802819610255 -117.007771218785479,32.618021325301825 -117.007772827252751,32.618015818477531 -117.007772783123769,32.618010679803881 -117.007785318438707,32.617957693839237 -117.007786909816318,32.617953919338468 -117.007786874173362,32.617949768905987 -117.007785188628233,32.617942578077717 -117.007783452813257,32.617929533543681 -117.007783337638202,32.617916121957144 -117.007781601824021,32.617903077423087 -117.007779863176296,32.617889702874201 -117.007779751068156,32.617876648352954 -117.007779697964352,32.61787046463234 -117.007779635893684,32.617863236766482 -117.007779523785615,32.617850182245192 -117.007779408843504,32.617836797709124 -117.007780920439515,32.617823733200716 -117.007780805264971,32.617810321614265 -117.0077823168603,32.617797257105821 -117.007783825621118,32.617783862582584 -117.007785337215523,32.617770798074112 -117.007786848809502,32.617757733565668 -117.007789984105614,32.617744659069828 -117.00779149569847,32.617731594561391 -117.00779466402102,32.617718519862315 -117.007796207490699,32.617713013437616 -117.007771580544826,32.617681557563685 -117.007743924519929,32.617675543620592 -117.007739044449735,32.617674529435398 -117.007709758588163,32.617667810439158 -117.007675590308821,32.61765980313757 -117.007643036763582,32.617650740794176 -117.007608859284375,32.61764166047498 -117.007574676161141,32.617631921920079 -117.007542110599516,32.617621457437799 -117.007518859690649,32.617614125083705 -117.007507918520162,32.617610673817353 -117.00747534732389,32.617599551091132 -117.007442768924975,32.617587712428985 -117.007410188775296,32.617575544638555 -117.007379226436555,32.617562679777578 -117.00734663758314,32.617549495777084 -117.007315669358277,32.61753594291838 -117.007283074387871,32.617522043868959 -117.007252097461759,32.617507474801023 -117.007245573187518,32.617504079321492 -117.007222738115701,32.617492181615006 -117.007217852397801,32.617490507379507 -117.007306209139841,32.617368234678345 -117.007307741657954,32.617369022384906 -117.007335465255778,32.617382924321419 -117.00736480689352,32.617396156240282 -117.007392524611461,32.617409371083873 -117.007421860368979,32.617421915909098 -117.007431637935071,32.617425978494218 -117.007451191070217,32.617433746590365 -117.007480520946118,32.61744560432156 -117.007509844699342,32.617456747915369 -117.007540789324324,32.617467551503275 -117.00757010436044,32.617477677987807 -117.007601043101147,32.617487794480567 -117.007631942921662,32.617497224088616 -117.007658023077724,32.617504979064613 -117.007662902905338,32.617505966202614 -117.007693829867051,32.617514708511976 -117.007724750934969,32.61752276373349 -117.007755699136382,32.617530131664061 -117.007786581286865,32.617537499993176 -117.007819114268727,32.61754417104369 -117.007850017655556,32.617550164993624 -117.007882541918974,32.617555819834116 -117.007889048517697,32.617557154039829 -117.007913439412746,32.617561126688138 -117.00794595753473,32.617566065578089 -117.007978471071667,32.617570346226643 -117.008010980471283,32.617574268906289 -117.008043483971306,32.61757750449727 -117.008074327670968,32.617580392307126 -117.008106858540799,32.617582968550217 -117.008127978200889,32.617584184866786 -117.008139350001002,32.617584802003783 -117.008171838874972,32.61758633428768 -117.008204321838591,32.617587178581338 -117.008236801494377,32.617587637849127 -117.008269278562651,32.617587795947273 -117.008301749478576,32.61758723810312 -117.008335841505541,32.617586369094809 -117.008358564325931,32.617585185024076 -117.008368303446801,32.617584767087827 -117.008400762798445,32.617582863911274 -117.008431595372514,32.617580612754999 -117.008464045738748,32.617577664514883 -117.008496493025746,32.617574358299315 -117.008528935717564,32.617570393842293 -117.008548399312289,32.617567854668977 -117.008571107474936,32.617564966384201 -117.008757626094805,32.617539768715162 -117.008942520677266,32.617514553715964 -117.009129040382646,32.617489382528547 -117.009146880485062,32.617486881217715 -117.009161476030471,32.617484729929942 -117.009177692200709,32.617482211569616 -117.009192316867782,32.617479730066471 -117.009208498234315,32.617476881884279 -117.009223084792723,32.617473686444001 -117.00923767158281,32.617470518052471 -117.009252222271627,32.617466992797524 -117.009268459639969,32.617463100061791 -117.009283040755108,32.617459272536898 -117.009297618315443,32.617455032040986 -117.009312193042334,32.617450462430284 -117.009326801028479,32.617445919664632 -117.009341339884514,32.617441020239234 -117.009355911766932,32.617436120608524 -117.009368856878297,32.617430873919041 -117.009383422844593,32.617425287205151 -117.009397988809042,32.617419700489521 -117.009410928235226,32.61741379376609 -117.009425491123025,32.617407849982015 -117.009438427472546,32.617401586190496 -117.009452984443087,32.617394955323213 -117.009459449892248,32.617391506936606 -117.009549989364942,32.617345929117555 -117.009703587923028,32.61726906920461 -117.009844251700741,32.617198802957297 -117.00985718798988,32.617192539121895 -117.009863624054887,32.617189393875641 -117.009879827846476,32.617181734749785 -117.009896002763256,32.617174434687477 -117.009913804203279,32.617167453720832 -117.009929981948972,32.617160482767169 -117.009946165842223,32.617154225941704 -117.00996396987567,32.617147547030541 -117.009980156614247,32.617141621117042 -117.009997966793236,32.617135656331278 -117.01001415944512,32.617130417493314 -117.010031972702777,32.617124810669452 -117.010049791876142,32.61711989092295 -117.010181001019461,32.617082993337064 -117.010351085891628,32.617035219806311 -117.010521173657011,32.61698780310612 -117.01068963838442,32.616940369139733 -117.010858102098553,32.616892962000165 -117.010911233166723,32.61702868291686 -117.010569441958253,32.617124571335474 -117.010538665980093,32.617133364712693 -117.010517854082039,32.617167849012461 -117.010357487517879,32.617212814327416 -117.010316744125888,32.61719553078693 -117.010285968089988,32.617204323199331 -117.010102921837813,32.61725561219 -117.010088344108354,32.617259824829105 -117.010073802247973,32.617264367277429 -117.010064054040669,32.617267560020693 -117.010059194563382,32.617268937182011 -117.010044622747685,32.617273836895862 -117.01003005377278,32.617279066622743 -117.010015485029143,32.617284323398245 -117.010002542820075,32.617289900170384 -117.00998794495284,32.617295487154607 -117.009973413851,32.617301403757594 -117.009960477554117,32.61730766760526 -117.009947541255343,32.617313931451548 -117.009929748780664,32.617321956568219 -117.009886095290639,32.617343856472914 -117.00972441483809,32.617424889151209 -117.009562730415368,32.617505618659941 -117.009544946621773,32.617514660815914 -117.009536860542269,32.617518476282591 -117.009520691687271,32.617526491329883 -117.009504516682682,32.617533792244792 -117.009488341915997,32.617541121109589 -117.009472164065656,32.617548092005421 -117.009455983131843,32.617554704932253 -117.009438178745,32.617561356719783 -117.009421995206623,32.617567667579422 -117.009404184420404,32.61757357637795 -117.009399328229435,32.617575338530493 -117.009387994731625,32.617579173102797 -117.009370181108537,32.617584752783237 -117.009352365116612,32.617590057448837 -117.009334545809352,32.617594977094569 -117.009316726500174,32.617599896737723 -117.009298901276679,32.617604129298357 -117.009281076051522,32.617608361856398 -117.009263247985032,32.61761226439706 -117.009245419684206,32.617616139884746 -117.009227585462426,32.617619327388176 -117.009222720273812,32.617620044486884 -117.009209751487589,32.617622543742804 -117.009191914431582,32.61762540212797 -117.009174077374439,32.617628260510493 -117.00903783608041,32.617646607924613 -117.008851317314765,32.617671806018024 -117.008666419306735,32.61769666381538 -117.008575592430716,32.617708904079734 -117.008564241168102,32.617710678237898 -117.008528555165029,32.617715020658714 -117.008492862187069,32.61771867599569 -117.008481505248184,32.617719790116588 -117.008458791137087,32.617721991304833 -117.00842309024442,32.617724602469799 -117.008387386745781,32.61772691066006 -117.008351676875563,32.617728477659099 -117.008315964160147,32.617729713731279 -117.008289991069233,32.617730588668898 -117.008281872558015,32.61773063863825 -117.008246148040499,32.617730501431808 -117.00821042351528,32.617730363313328 -117.008174690499118,32.617729236943433 -117.008138954175806,32.617727725545841 -117.00810321501848,32.617725884123047 -117.008069093662186,32.617723345618828 -117.00803334577067,32.617720487080902 -117.008023594588551,32.617719502878479 -117.007997591747028,32.617716914402173 -117.007962057855849,32.617739092794672 -117.007960478773342,32.617744297361945 -117.007958946432765,32.617754943567114 -117.007957414324153,32.617765616822709 -117.00795425827971,32.617776273017341 -117.00795272617016,32.617786946272865 -117.007951193827893,32.61779759247802 -117.007951285421342,32.617808255744087 -117.007949753078506,32.6178189019492 -117.007949847506481,32.617829895230074 -117.007948315395538,32.617840568485583 -117.007948406756299,32.617851204701239 -117.007948498349435,32.617861867967378 -117.007948593017403,32.617872889200342 -117.007948684138128,32.617883497463957 -117.007950399436609,32.617894150740653 -117.007950490797683,32.617904786956366 -117.007952153220927,32.617909284464574 -117.007952185324427,32.617913021927656 -117.007953838779088,32.617916475290521 -117.007955491753648,32.617919872749233 -117.0079867535365,32.617967448527367 -117.007996628457875,32.617982834363524 -117.007999914351814,32.617987293928955 -117.008001567569636,32.617990719339168 -117.008003232599648,32.617995519811124 -117.008004900449293,32.618000648494565 -117.008006553667528,32.618004073904679 -117.008008206885933,32.618007499314778 -117.008008251276479,32.618012666842077 -117.008009919126707,32.618017795525454 -117.008009966344559,32.618023292165915 -117.008011619563447,32.618026717576022 -117.008011652149705,32.618030510943235 -117.008011696292598,32.618035649616772 -117.008010102095895,32.618039095007376 -117.008010134682081,32.618042888374575 -117.008010178824875,32.61804802704814 -117.008008599507392,32.618053204565754 -117.0080070199418,32.618058353229507 -117.00800544062389,32.618063530747044 -117.008002234522309,32.618068360287786 -117.008000640324639,32.618071805678262 -117.007997446026806,32.618078009379005 -117.007995851828738,32.618081454769367 -117.00799264265099,32.618085926342964 -117.00798943372078,32.618090426770216 -117.007986209911181,32.618093195070365 -117.007982986333801,32.618095990420827 -117.007979769955085,32.618099747870204 -117.007976546152591,32.618102517071748 -117.007973319507357,32.618104955356742 -117.007968477889435,32.61810842072618 -117.007965251011427,32.61811083196055 -117.007960406558112,32.618113967314933 -117.00795556187208,32.618117075618642 -117.007950711516344,32.61811952389251 -117.007944208322698,32.618122312367078 -117.007939386862105,32.618124403378651 -117.007934527536847,32.618125807506594 -117.007929671046043,32.618127541649201 -117.007923191077751,32.61812931283113 -117.007918325850483,32.618130029878344 -117.007913463457641,32.618131076940223 -117.007908598230117,32.618131793987097 -117.007902109292914,32.618132521022552 -117.007893994043656,32.618132955082004 -117.007889122914648,32.618132985048014 -117.007882624776755,32.618132640886763 -117.007877747746491,32.618131983772287 -117.007872873783086,32.618131683722808 -117.007866369976583,32.618130679531042 -117.007861490112191,32.618129692401077 -117.007856610015565,32.618128678220458 -117.007850100540793,32.618127013998169 -117.007845211709224,32.618124982722229 -117.007840328778727,32.618123638526193 -117.007833810337175,32.618120930157694</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="ParcelID">43503</SimpleData>
+		<SimpleData name="APN">6412712100</SimpleData>
+		<SimpleData name="Situs">01454 AUTUMN HILLS DR</SimpleData>
+		<SimpleData name="DocType">1</SimpleData>
+		<SimpleData name="DocNumber">088145</SimpleData>
+		<SimpleData name="DocDate">021512</SimpleData>
+		<SimpleData name="MapNumber">014443     </SimpleData>
+		<SimpleData name="OwnerStatus">JT</SimpleData>
+		<SimpleData name="OwnerName">NUNEZ-SAUL JAVIER I&amp;CARRILLO MONICA I</SimpleData>
+		<SimpleData name="StreetNo">1454</SimpleData>
+		<SimpleData name="AddrFract"></SimpleData>
+		<SimpleData name="StreetDir"></SimpleData>
+		<SimpleData name="StreetName">AUTUMN HILLS DR</SimpleData>
+		<SimpleData name="AddrUnit"></SimpleData>
+		<SimpleData name="Zone1">SF3</SimpleData>
+		<SimpleData name="Zone2"></SimpleData>
+		<SimpleData name="Zone3"></SimpleData>
+		<SimpleData name="Zone4"></SimpleData>
+		<SimpleData name="Zone5"></SimpleData>
+		<SimpleData name="RLUC1">11110</SimpleData>
+		<SimpleData name="RLUC2"></SimpleData>
+		<SimpleData name="RLUC3"></SimpleData>
+		<SimpleData name="RLUC4"></SimpleData>
+		<SimpleData name="RLUC5"></SimpleData>
+		<SimpleData name="SDLUC1">1100</SimpleData>
+		<SimpleData name="SDLUC2"></SimpleData>
+		<SimpleData name="SDLUC3"></SimpleData>
+		<SimpleData name="SDLUC4"></SimpleData>
+		<SimpleData name="SDLUC5"></SimpleData>
+		<SimpleData name="GenPlan1">RLM</SimpleData>
+		<SimpleData name="GenPlan2"></SimpleData>
+		<SimpleData name="GenPlan3"></SimpleData>
+		<SimpleData name="GenPlan4"></SimpleData>
+		<SimpleData name="GenPlan5"></SimpleData>
+		<SimpleData name="StudyArea"></SimpleData>
+		<SimpleData name="SPA">ORV1W</SimpleData>
+		<SimpleData name="PC">PC10</SimpleData>
+		<SimpleData name="Subdivision">ROCKING HORSE</SimpleData>
+		<SimpleData name="Basin">PCB</SimpleData>
+		<SimpleData name="AQIP"></SimpleData>
+		<SimpleData name="Juris">CV</SimpleData>
+		<SimpleData name="Comm">E</SimpleData>
+		<SimpleData name="Redev"></SimpleData>
+		<SimpleData name="Acres1">0.2</SimpleData>
+		<SimpleData name="Acres2">0</SimpleData>
+		<SimpleData name="Acres3">0</SimpleData>
+		<SimpleData name="Acres4">0</SimpleData>
+		<SimpleData name="Acres5">0</SimpleData>
+		<SimpleData name="AcresTot">0.2</SimpleData>
+		<SimpleData name="Units1">1</SimpleData>
+		<SimpleData name="Units2">0</SimpleData>
+		<SimpleData name="Units3">0</SimpleData>
+		<SimpleData name="Units4">0</SimpleData>
+		<SimpleData name="Units5">0</SimpleData>
+		<SimpleData name="UnitsTot">1</SimpleData>
+		<SimpleData name="PlannedUnits">0</SimpleData>
+		<SimpleData name="Comments">SFD</SimpleData>
+		<SimpleData name="BPL">SANTA CARINA  DR</SimpleData>
+		<SimpleData name="CensusBlock">1000</SimpleData>
+		<SimpleData name="CensusTract">13310</SimpleData>
+		<SimpleData name="Lot">37</SimpleData>
+		<SimpleData name="BldgNo"></SimpleData>
+		<SimpleData name="UCDate">2002-09-04T00:00:00.000Z</SimpleData>
+		<SimpleData name="MapNo">014443</SimpleData>
+		<SimpleData name="OldLuiAPN">6410720300</SimpleData>
+		<SimpleData name="ProjectNo">PRJ01-032</SimpleData>
+		<SimpleData name="ProjectName">ORV1W</SimpleData>
+		<SimpleData name="SetbacksFront">00</SimpleData>
+		<SimpleData name="SetbacksSide1"></SimpleData>
+		<SimpleData name="SetbacksSide2"></SimpleData>
+		<SimpleData name="SetbacksRear"></SimpleData>
+		<SimpleData name="AuxCode"></SimpleData>
+		<SimpleData name="TAZ">4001</SimpleData>
+		<SimpleData name="Project">ORV1W</SimpleData>
+		<SimpleData name="YearBuilt">2003</SimpleData>
+		<SimpleData name="MapURL">http://gis.chulavistaca.gov/findandmapparcel.html?apn=6412712100</SimpleData>
+		<SimpleData name="HistSiteName"></SimpleData>
+		<SimpleData name="IsHistSite">NO</SimpleData>
+		<SimpleData name="IsHistSurveyed">NO</SimpleData>
+		<SimpleData name="IsMillsAct">NO</SimpleData>
+		<SimpleData name="HistYearBuilt">2003</SimpleData>
+		<SimpleData name="HistHouseName"></SimpleData>
+		<SimpleData name="HistSiteNo"></SimpleData>
+		<SimpleData name="HistStatusCode"></SimpleData>
+		<SimpleData name="HistHouseAddress"></SimpleData>
+		<SimpleData name="RecID">{E4A33964-A74A-4CFF-B90D-11994EF40196}</SimpleData>
+		<SimpleData name="OBJECTID">24321</SimpleData>
+		<SimpleData name="LIVAREA">0</SimpleData>
+		<SimpleData name="StreetAddress">1454 AUTUMN HILLS DR</SimpleData>
+		<SimpleData name="SitusZip">91913</SimpleData>
+		<SimpleData name="FmtStreetAddress">1454 AUTUMN HILLS DR</SimpleData>
+		<SimpleData name="FmtStreetNo">1454</SimpleData>
+		<SimpleData name="OwnAddr1">1454 AUTUMN HILLS DR</SimpleData>
+		<SimpleData name="OwnAddr2">CHULA VISTA CA 91913</SimpleData>
+		<SimpleData name="Book">641</SimpleData>
+		<SimpleData name="Page">271</SimpleData>
+		<SimpleData name="Parcel">21</SimpleData>
+		<SimpleData name="ParcelStatus">A</SimpleData>
+		<SimpleData name="PrimaryParcelFlag">Y</SimpleData>
+		<SimpleData name="SourceSeqNbr">1</SimpleData>
+		<SimpleData name="CZone">7</SimpleData>
+		<SimpleData name="FloodPlain">NO</SimpleData>
+		<SimpleData name="VHFHZ">NO</SimpleData>
+		<SimpleData name="BldInspBeat">3</SimpleData>
+		<SimpleData name="CodeInspBeat">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-117.007068966854362,32.617742192793258 -117.007468880261115,32.617791983427587 -117.00744524011246,32.617875599882851 -117.007432666378165,32.617924132415595 -117.00709242784859,32.618012443322648 -117.007090751085414,32.618006269579865 -117.007087415244825,32.617995983334438 -117.007084079405033,32.617985697088997 -117.007080740734594,32.617975080828614 -117.007077404896336,32.61796479458296 -117.007074065995369,32.617954151272045 -117.007072351033599,32.617943525033503 -117.007070605875498,32.617933229012806 -117.007068923710591,32.617922575520886 -117.00706720875003,32.617911949282338 -117.007065493557832,32.617901295993349 -117.007063775774469,32.61789034064158 -117.007062060575379,32.617879686450891 -117.007061969089321,32.617869023184141 -117.00706025413065,32.617858396945508 -117.007060162644834,32.617847733678765 -117.007060068327704,32.617836740397173 -117.007059977074022,32.617826104180828 -117.007059885588305,32.617815440914121 -117.007061414974942,32.617804437654804 -117.00706132372116,32.617793801438488 -117.007062855938614,32.617783128194048 -117.007064388387747,32.617772481999978 -117.007064296901532,32.617761818733307 -117.007065829350182,32.617751172539229 -117.007068966854362,32.617742192793258</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="ParcelID">43504</SimpleData>
+		<SimpleData name="APN">6412712200</SimpleData>
+		<SimpleData name="Situs">01446 AUTUMN HILLS DR</SimpleData>
+		<SimpleData name="DocType">2</SimpleData>
+		<SimpleData name="DocNumber">075409</SimpleData>
+		<SimpleData name="DocDate">022514</SimpleData>
+		<SimpleData name="MapNumber">014443     </SimpleData>
+		<SimpleData name="OwnerStatus">NS</SimpleData>
+		<SimpleData name="OwnerName">NOLASCO FELIPE&amp;FILIPINA REVOCABLE 2014 TRUST 02-21-14</SimpleData>
+		<SimpleData name="StreetNo">1446</SimpleData>
+		<SimpleData name="AddrFract"></SimpleData>
+		<SimpleData name="StreetDir"></SimpleData>
+		<SimpleData name="StreetName">AUTUMN HILLS DR</SimpleData>
+		<SimpleData name="AddrUnit"></SimpleData>
+		<SimpleData name="Zone1">SF3</SimpleData>
+		<SimpleData name="Zone2"></SimpleData>
+		<SimpleData name="Zone3"></SimpleData>
+		<SimpleData name="Zone4"></SimpleData>
+		<SimpleData name="Zone5"></SimpleData>
+		<SimpleData name="RLUC1">11110</SimpleData>
+		<SimpleData name="RLUC2"></SimpleData>
+		<SimpleData name="RLUC3"></SimpleData>
+		<SimpleData name="RLUC4"></SimpleData>
+		<SimpleData name="RLUC5"></SimpleData>
+		<SimpleData name="SDLUC1">1100</SimpleData>
+		<SimpleData name="SDLUC2"></SimpleData>
+		<SimpleData name="SDLUC3"></SimpleData>
+		<SimpleData name="SDLUC4"></SimpleData>
+		<SimpleData name="SDLUC5"></SimpleData>
+		<SimpleData name="GenPlan1">RLM</SimpleData>
+		<SimpleData name="GenPlan2"></SimpleData>
+		<SimpleData name="GenPlan3"></SimpleData>
+		<SimpleData name="GenPlan4"></SimpleData>
+		<SimpleData name="GenPlan5"></SimpleData>
+		<SimpleData name="StudyArea"></SimpleData>
+		<SimpleData name="SPA">ORV1W</SimpleData>
+		<SimpleData name="PC">PC10</SimpleData>
+		<SimpleData name="Subdivision">ROCKING HORSE</SimpleData>
+		<SimpleData name="Basin">PCB</SimpleData>
+		<SimpleData name="AQIP"></SimpleData>
+		<SimpleData name="Juris">CV</SimpleData>
+		<SimpleData name="Comm">E</SimpleData>
+		<SimpleData name="Redev"></SimpleData>
+		<SimpleData name="Acres1">0.15</SimpleData>
+		<SimpleData name="Acres2">0</SimpleData>
+		<SimpleData name="Acres3">0</SimpleData>
+		<SimpleData name="Acres4">0</SimpleData>
+		<SimpleData name="Acres5">0</SimpleData>
+		<SimpleData name="AcresTot">0.15</SimpleData>
+		<SimpleData name="Units1">1</SimpleData>
+		<SimpleData name="Units2">0</SimpleData>
+		<SimpleData name="Units3">0</SimpleData>
+		<SimpleData name="Units4">0</SimpleData>
+		<SimpleData name="Units5">0</SimpleData>
+		<SimpleData name="UnitsTot">1</SimpleData>
+		<SimpleData name="PlannedUnits">0</SimpleData>
+		<SimpleData name="Comments">SFD</SimpleData>
+		<SimpleData name="BPL">SANTA CARINA  DR</SimpleData>
+		<SimpleData name="CensusBlock">1000</SimpleData>
+		<SimpleData name="CensusTract">13310</SimpleData>
+		<SimpleData name="Lot">38</SimpleData>
+		<SimpleData name="BldgNo"></SimpleData>
+		<SimpleData name="UCDate">2002-09-04T00:00:00.000Z</SimpleData>
+		<SimpleData name="MapNo">014443</SimpleData>
+		<SimpleData name="OldLuiAPN">6410720300</SimpleData>
+		<SimpleData name="ProjectNo">PRJ01-032</SimpleData>
+		<SimpleData name="ProjectName">ORV1W</SimpleData>
+		<SimpleData name="SetbacksFront">00</SimpleData>
+		<SimpleData name="SetbacksSide1"></SimpleData>
+		<SimpleData name="SetbacksSide2"></SimpleData>
+		<SimpleData name="SetbacksRear"></SimpleData>
+		<SimpleData name="AuxCode"></SimpleData>
+		<SimpleData name="TAZ">4001</SimpleData>
+		<SimpleData name="Project">ORV1W</SimpleData>
+		<SimpleData name="YearBuilt">2003</SimpleData>
+		<SimpleData name="MapURL">http://gis.chulavistaca.gov/findandmapparcel.html?apn=6412712200</SimpleData>
+		<SimpleData name="HistSiteName"></SimpleData>
+		<SimpleData name="IsHistSite">NO</SimpleData>
+		<SimpleData name="IsHistSurveyed">NO</SimpleData>
+		<SimpleData name="IsMillsAct">NO</SimpleData>
+		<SimpleData name="HistYearBuilt">2003</SimpleData>
+		<SimpleData name="HistHouseName"></SimpleData>
+		<SimpleData name="HistSiteNo"></SimpleData>
+		<SimpleData name="HistStatusCode"></SimpleData>
+		<SimpleData name="HistHouseAddress"></SimpleData>
+		<SimpleData name="RecID">{673A70E4-053F-408E-9FC0-E02E1E6EAC78}</SimpleData>
+		<SimpleData name="OBJECTID">25223</SimpleData>
+		<SimpleData name="LIVAREA">0</SimpleData>
+		<SimpleData name="StreetAddress">1446 AUTUMN HILLS DR</SimpleData>
+		<SimpleData name="SitusZip">91913</SimpleData>
+		<SimpleData name="FmtStreetAddress">1446 AUTUMN HILLS DR</SimpleData>
+		<SimpleData name="FmtStreetNo">1446</SimpleData>
+		<SimpleData name="OwnAddr1">1446 AUTUMN HILLS DR</SimpleData>
+		<SimpleData name="OwnAddr2">CHULA VISTA CA 91913</SimpleData>
+		<SimpleData name="Book">641</SimpleData>
+		<SimpleData name="Page">271</SimpleData>
+		<SimpleData name="Parcel">22</SimpleData>
+		<SimpleData name="ParcelStatus">A</SimpleData>
+		<SimpleData name="PrimaryParcelFlag">Y</SimpleData>
+		<SimpleData name="SourceSeqNbr">1</SimpleData>
+		<SimpleData name="CZone">7</SimpleData>
+		<SimpleData name="FloodPlain">NO</SimpleData>
+		<SimpleData name="VHFHZ">NO</SimpleData>
+		<SimpleData name="BldInspBeat">3</SimpleData>
+		<SimpleData name="CodeInspBeat">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-117.00709242784859,32.618012443322648 -117.007432666378165,32.617924132415595 -117.007466433229183,32.618074404192825 -117.0074697778401,32.618085706621251 -117.007155523163092,32.618174573009505 -117.007097457802928,32.618027199840824 -117.007094086926756,32.618016555825108 -117.00709242784859,32.618012443322648</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="ParcelID">43516</SimpleData>
+		<SimpleData name="APN">6412713400</SimpleData>
+		<SimpleData name="Situs">01447 ZAC CANYON PL</SimpleData>
+		<SimpleData name="DocType">1</SimpleData>
+		<SimpleData name="DocNumber">134826</SimpleData>
+		<SimpleData name="DocDate">031809</SimpleData>
+		<SimpleData name="MapNumber">014526     </SimpleData>
+		<SimpleData name="OwnerStatus">JT</SimpleData>
+		<SimpleData name="OwnerName">HUYNH THANG&amp;NGUYEN KIEU</SimpleData>
+		<SimpleData name="StreetNo">1447</SimpleData>
+		<SimpleData name="AddrFract"></SimpleData>
+		<SimpleData name="StreetDir"></SimpleData>
+		<SimpleData name="StreetName">ZAC CANYON PL</SimpleData>
+		<SimpleData name="AddrUnit"></SimpleData>
+		<SimpleData name="Zone1">SF3</SimpleData>
+		<SimpleData name="Zone2"></SimpleData>
+		<SimpleData name="Zone3"></SimpleData>
+		<SimpleData name="Zone4"></SimpleData>
+		<SimpleData name="Zone5"></SimpleData>
+		<SimpleData name="RLUC1">11110</SimpleData>
+		<SimpleData name="RLUC2"></SimpleData>
+		<SimpleData name="RLUC3"></SimpleData>
+		<SimpleData name="RLUC4"></SimpleData>
+		<SimpleData name="RLUC5"></SimpleData>
+		<SimpleData name="SDLUC1">1100</SimpleData>
+		<SimpleData name="SDLUC2"></SimpleData>
+		<SimpleData name="SDLUC3"></SimpleData>
+		<SimpleData name="SDLUC4"></SimpleData>
+		<SimpleData name="SDLUC5"></SimpleData>
+		<SimpleData name="GenPlan1">RLM</SimpleData>
+		<SimpleData name="GenPlan2"></SimpleData>
+		<SimpleData name="GenPlan3"></SimpleData>
+		<SimpleData name="GenPlan4"></SimpleData>
+		<SimpleData name="GenPlan5"></SimpleData>
+		<SimpleData name="StudyArea"></SimpleData>
+		<SimpleData name="SPA">ORV1W</SimpleData>
+		<SimpleData name="PC">PC10</SimpleData>
+		<SimpleData name="Subdivision">ROCKING HORSE</SimpleData>
+		<SimpleData name="Basin">PCB</SimpleData>
+		<SimpleData name="AQIP"></SimpleData>
+		<SimpleData name="Juris">CV</SimpleData>
+		<SimpleData name="Comm">E</SimpleData>
+		<SimpleData name="Redev"></SimpleData>
+		<SimpleData name="Acres1">0.15</SimpleData>
+		<SimpleData name="Acres2">0</SimpleData>
+		<SimpleData name="Acres3">0</SimpleData>
+		<SimpleData name="Acres4">0</SimpleData>
+		<SimpleData name="Acres5">0</SimpleData>
+		<SimpleData name="AcresTot">0.15</SimpleData>
+		<SimpleData name="Units1">1</SimpleData>
+		<SimpleData name="Units2">0</SimpleData>
+		<SimpleData name="Units3">0</SimpleData>
+		<SimpleData name="Units4">0</SimpleData>
+		<SimpleData name="Units5">0</SimpleData>
+		<SimpleData name="UnitsTot">1</SimpleData>
+		<SimpleData name="PlannedUnits">0</SimpleData>
+		<SimpleData name="Comments">SFD</SimpleData>
+		<SimpleData name="BPL">SANTA CARINA  DR</SimpleData>
+		<SimpleData name="CensusBlock">1000</SimpleData>
+		<SimpleData name="CensusTract">13310</SimpleData>
+		<SimpleData name="Lot">74</SimpleData>
+		<SimpleData name="BldgNo"></SimpleData>
+		<SimpleData name="UCDate">2002-10-30T00:00:00.000Z</SimpleData>
+		<SimpleData name="MapNo">014526</SimpleData>
+		<SimpleData name="OldLuiAPN">6410720300</SimpleData>
+		<SimpleData name="ProjectNo">PRJ01-032</SimpleData>
+		<SimpleData name="ProjectName">ORV1W</SimpleData>
+		<SimpleData name="SetbacksFront">00</SimpleData>
+		<SimpleData name="SetbacksSide1"></SimpleData>
+		<SimpleData name="SetbacksSide2"></SimpleData>
+		<SimpleData name="SetbacksRear"></SimpleData>
+		<SimpleData name="AuxCode"></SimpleData>
+		<SimpleData name="TAZ">4001</SimpleData>
+		<SimpleData name="Project">ORV1W</SimpleData>
+		<SimpleData name="YearBuilt">2003</SimpleData>
+		<SimpleData name="MapURL">http://gis.chulavistaca.gov/findandmapparcel.html?apn=6412713400</SimpleData>
+		<SimpleData name="HistSiteName"></SimpleData>
+		<SimpleData name="IsHistSite">NO</SimpleData>
+		<SimpleData name="IsHistSurveyed">NO</SimpleData>
+		<SimpleData name="IsMillsAct">NO</SimpleData>
+		<SimpleData name="HistYearBuilt">2003</SimpleData>
+		<SimpleData name="HistHouseName"></SimpleData>
+		<SimpleData name="HistSiteNo"></SimpleData>
+		<SimpleData name="HistStatusCode"></SimpleData>
+		<SimpleData name="HistHouseAddress"></SimpleData>
+		<SimpleData name="RecID">{421D9163-7870-4FF9-A403-9A824F643F86}</SimpleData>
+		<SimpleData name="OBJECTID">24269</SimpleData>
+		<SimpleData name="LIVAREA">0</SimpleData>
+		<SimpleData name="StreetAddress">1447 ZAC CANYON PL</SimpleData>
+		<SimpleData name="SitusZip">91913</SimpleData>
+		<SimpleData name="FmtStreetAddress">1447 ZAC CANYON PL</SimpleData>
+		<SimpleData name="FmtStreetNo">1447</SimpleData>
+		<SimpleData name="OwnAddr1">1447 ZAC CANYON PL</SimpleData>
+		<SimpleData name="OwnAddr2">CHULA VISTA CA 91913</SimpleData>
+		<SimpleData name="Book">641</SimpleData>
+		<SimpleData name="Page">271</SimpleData>
+		<SimpleData name="Parcel">34</SimpleData>
+		<SimpleData name="ParcelStatus">A</SimpleData>
+		<SimpleData name="PrimaryParcelFlag">Y</SimpleData>
+		<SimpleData name="SourceSeqNbr">1</SimpleData>
+		<SimpleData name="CZone">7</SimpleData>
+		<SimpleData name="FloodPlain">NO</SimpleData>
+		<SimpleData name="VHFHZ">NO</SimpleData>
+		<SimpleData name="BldInspBeat">3</SimpleData>
+		<SimpleData name="CodeInspBeat">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-117.007432666378165,32.617924132415595 -117.00744524011246,32.617875599882851 -117.007779697964352,32.61787046463234 -117.007779751068156,32.617876648352954 -117.007779863176296,32.617889702874201 -117.007781601824021,32.617903077423087 -117.007783337638202,32.617916121957144 -117.007783452813257,32.617929533543681 -117.007785188628233,32.617942578077717 -117.007786874173362,32.617949768905987 -117.007786909816318,32.617953919338468 -117.007785318438707,32.617957693839237 -117.007772783123769,32.618010679803881 -117.007772827252751,32.618015818477531 -117.007771218785479,32.618021325301825 -117.007466433229183,32.618074404192825 -117.007432666378165,32.617924132415595</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="ParcelID">43524</SimpleData>
+		<SimpleData name="APN">6412714200</SimpleData>
+		<SimpleData name="Situs">00000 AUTUMN HILLS DR</SimpleData>
+		<SimpleData name="DocType">1</SimpleData>
+		<SimpleData name="DocNumber">478107</SimpleData>
+		<SimpleData name="DocDate">121603</SimpleData>
+		<SimpleData name="MapNumber">014443     </SimpleData>
+		<SimpleData name="OwnerStatus">NS</SimpleData>
+		<SimpleData name="OwnerName">OTAY RANCH THREE COMMUNITY ASSN</SimpleData>
+		<SimpleData name="StreetNo">999999</SimpleData>
+		<SimpleData name="AddrFract"></SimpleData>
+		<SimpleData name="StreetDir"></SimpleData>
+		<SimpleData name="StreetName">AUTUMN HILLS DR</SimpleData>
+		<SimpleData name="AddrUnit"></SimpleData>
+		<SimpleData name="Zone1">SF3</SimpleData>
+		<SimpleData name="Zone2"></SimpleData>
+		<SimpleData name="Zone3"></SimpleData>
+		<SimpleData name="Zone4"></SimpleData>
+		<SimpleData name="Zone5"></SimpleData>
+		<SimpleData name="RLUC1">45300</SimpleData>
+		<SimpleData name="RLUC2"></SimpleData>
+		<SimpleData name="RLUC3"></SimpleData>
+		<SimpleData name="RLUC4"></SimpleData>
+		<SimpleData name="RLUC5"></SimpleData>
+		<SimpleData name="SDLUC1">4118</SimpleData>
+		<SimpleData name="SDLUC2"></SimpleData>
+		<SimpleData name="SDLUC3"></SimpleData>
+		<SimpleData name="SDLUC4"></SimpleData>
+		<SimpleData name="SDLUC5"></SimpleData>
+		<SimpleData name="GenPlan1">RLM</SimpleData>
+		<SimpleData name="GenPlan2"></SimpleData>
+		<SimpleData name="GenPlan3"></SimpleData>
+		<SimpleData name="GenPlan4"></SimpleData>
+		<SimpleData name="GenPlan5"></SimpleData>
+		<SimpleData name="StudyArea"></SimpleData>
+		<SimpleData name="SPA">ORV1W</SimpleData>
+		<SimpleData name="PC">PC10</SimpleData>
+		<SimpleData name="Subdivision"></SimpleData>
+		<SimpleData name="Basin">PCB</SimpleData>
+		<SimpleData name="AQIP"></SimpleData>
+		<SimpleData name="Juris">CV</SimpleData>
+		<SimpleData name="Comm">E</SimpleData>
+		<SimpleData name="Redev"></SimpleData>
+		<SimpleData name="Acres1">0.68</SimpleData>
+		<SimpleData name="Acres2">0</SimpleData>
+		<SimpleData name="Acres3">0</SimpleData>
+		<SimpleData name="Acres4">0</SimpleData>
+		<SimpleData name="Acres5">0</SimpleData>
+		<SimpleData name="AcresTot">0.68</SimpleData>
+		<SimpleData name="Units1">0</SimpleData>
+		<SimpleData name="Units2">0</SimpleData>
+		<SimpleData name="Units3">0</SimpleData>
+		<SimpleData name="Units4">0</SimpleData>
+		<SimpleData name="Units5">0</SimpleData>
+		<SimpleData name="UnitsTot">0</SimpleData>
+		<SimpleData name="PlannedUnits">0</SimpleData>
+		<SimpleData name="Comments">PRIVATE STREET</SimpleData>
+		<SimpleData name="BPL"></SimpleData>
+		<SimpleData name="CensusBlock">1000</SimpleData>
+		<SimpleData name="CensusTract">13310</SimpleData>
+		<SimpleData name="Lot">B</SimpleData>
+		<SimpleData name="BldgNo"></SimpleData>
+		<SimpleData name="MapNo">014443</SimpleData>
+		<SimpleData name="OldLuiAPN">6410720300</SimpleData>
+		<SimpleData name="ProjectNo"></SimpleData>
+		<SimpleData name="ProjectName">ORV1W</SimpleData>
+		<SimpleData name="SetbacksFront">00</SimpleData>
+		<SimpleData name="SetbacksSide1"></SimpleData>
+		<SimpleData name="SetbacksSide2"></SimpleData>
+		<SimpleData name="SetbacksRear"></SimpleData>
+		<SimpleData name="AuxCode"></SimpleData>
+		<SimpleData name="TAZ">492</SimpleData>
+		<SimpleData name="Project">ORV1W</SimpleData>
+		<SimpleData name="YearBuilt">00</SimpleData>
+		<SimpleData name="MapURL">http://gis.chulavistaca.gov/findandmapparcel.html?apn=6412714200</SimpleData>
+		<SimpleData name="HistSiteName"></SimpleData>
+		<SimpleData name="IsHistSite">NO</SimpleData>
+		<SimpleData name="IsHistSurveyed">NO</SimpleData>
+		<SimpleData name="IsMillsAct">NO</SimpleData>
+		<SimpleData name="HistYearBuilt">00</SimpleData>
+		<SimpleData name="HistHouseName"></SimpleData>
+		<SimpleData name="HistSiteNo"></SimpleData>
+		<SimpleData name="HistStatusCode"></SimpleData>
+		<SimpleData name="HistHouseAddress"></SimpleData>
+		<SimpleData name="RecID">{2FD153E0-D4AE-4168-9DE8-CDF6C1942C40}</SimpleData>
+		<SimpleData name="OBJECTID">22204</SimpleData>
+		<SimpleData name="LIVAREA">0</SimpleData>
+		<SimpleData name="StreetAddress">999999 AUTUMN HILLS DR</SimpleData>
+		<SimpleData name="SitusZip">91913</SimpleData>
+		<SimpleData name="FmtStreetAddress">999999 AUTUMN HILLS DR</SimpleData>
+		<SimpleData name="FmtStreetNo">999999</SimpleData>
+		<SimpleData name="OwnAddr1">C/O DON ROSS 350 W ASH ST #730</SimpleData>
+		<SimpleData name="OwnAddr2">SAN DIEGO CA 92101</SimpleData>
+		<SimpleData name="Book">641</SimpleData>
+		<SimpleData name="Page">271</SimpleData>
+		<SimpleData name="Parcel">42</SimpleData>
+		<SimpleData name="ParcelStatus">A</SimpleData>
+		<SimpleData name="PrimaryParcelFlag">Y</SimpleData>
+		<SimpleData name="SourceSeqNbr">1</SimpleData>
+		<SimpleData name="CZone">7</SimpleData>
+		<SimpleData name="FloodPlain">NO</SimpleData>
+		<SimpleData name="VHFHZ">NO</SimpleData>
+		<SimpleData name="BldInspBeat">3</SimpleData>
+		<SimpleData name="CodeInspBeat">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-117.007302555821923,32.618846000025918 -117.007297672859821,32.618844655808331 -117.007291163582693,32.618843019508496 -117.007284650761591,32.6188409702389 -117.007278135116351,32.618838591855798 -117.007271619703573,32.618836240522711 -117.007265101226906,32.618833532124043 -117.007258582750509,32.618830823724991 -117.00725206121038,32.618827758260423 -117.007243901323378,32.618822998600415 -117.007239030871048,32.61881926292228 -117.007232473471873,32.61881586764472 -117.007227569759749,32.618812105118685 -117.007222663216041,32.618808012577595 -117.007216132950731,32.618803930016064 -117.007211226408032,32.618799837474491 -117.007206317033834,32.618795414917891 -117.007203031149871,32.618790955331093 -117.007199763186293,32.618788584034967 -117.007196477302898,32.618784124447998 -117.007193206275701,32.61878139608644 -117.007189949524118,32.618776606287987 -117.007186626014899,32.618771486867487 -117.007181713579556,32.618766707244632 -117.007178418970227,32.618761230562193 -117.007175127193207,32.618756083894539 -117.00717345630585,32.618750597232697 -117.007170161697644,32.618745120550074 -117.007168490810827,32.618739633888154 -117.007165193371549,32.618733827190503 -117.007163489456786,32.618728340731558 -117.007161848535219,32.618722496801368 -117.007160174817599,32.6187166801245 -117.00715850086803,32.618710836397199 -117.007149963679822,32.618662103602944 -117.0071329541816,32.61857219589433 -117.007132921872767,32.618568430478831 -117.007131265374241,32.61856462003955 -117.007131233305316,32.618560882576169 -117.007129577046882,32.618557100088928 -117.007127923844578,32.61855367376522 -117.007108002986456,32.618502949577788 -117.007046584530627,32.618347021559231 -117.006983539517876,32.618190746422911 -117.006937028837115,32.618072848185115 -117.006932075685597,32.61805946542124 -117.006928719356949,32.618046788818049 -117.006923744967494,32.61803478041702 -117.006920382747225,32.618021416733519 -117.006915398578116,32.618008392145398 -117.006912042246086,32.617995714640095 -117.006908682612362,32.617982652117384 -117.006906946926193,32.617969607570927 -117.006903587533955,32.617956573000193 -117.006901851849065,32.617943528453686 -117.006898492458589,32.61793049388281 -117.006896756774992,32.617917449336275 -117.006895018261105,32.617904074774891 -117.006894906283875,32.617891020252813 -117.006893202899903,32.617881741121636 -117.006893167538777,32.617877618640982 -117.006891431856957,32.617864574094433 -117.006891317049536,32.617851189557577 -117.006891205312655,32.617838162987603 -117.006891090033506,32.617824723448166 -117.006890978056944,32.617811668926194 -117.006892486953305,32.617798274413794 -117.006892374976559,32.6177852198918 -117.006893883640231,32.617771798329059 -117.006895395366257,32.617758733831515 -117.006896906851978,32.617745641381944 -117.006898415986086,32.617732274821634 -117.006899995370745,32.617727098220058 -117.006901551412923,32.617719200348468 -117.006903063136875,32.617706135850902 -117.006906198562106,32.617693061377622 -117.006909336817188,32.617680316919191 -117.006912472240515,32.617667242445748 -117.006915608720675,32.617654167064046 -117.006920370913548,32.617641440581608 -117.006923509157033,32.617628695221143 -117.006928271347377,32.617615968738313 -117.006933000260815,32.617603213604568 -117.006937798299603,32.617590816031729 -117.006942560485868,32.617578089548445 -117.006948949193259,32.617565682201935 -117.006953714199767,32.617553284831416 -117.006960105727075,32.617541206597487 -117.006966494429392,32.61752879925006 -117.006972886192969,32.617516748967553 -117.00697928102565,32.617505056651694 -117.006985672313959,32.617492951366089 -117.006992066903408,32.617481231097422 -117.007000085188778,32.617469500851598 -117.007008103471961,32.617457770605235 -117.007016124584297,32.61744637037318 -117.0070289552406,32.617427766443498 -117.007017232139631,32.617390047082445 -117.007217852397801,32.617490507379507 -117.00717409509285,32.617500395947246 -117.007161264688705,32.617519026942503 -117.00715484936849,32.617528328914425 -117.007148434279088,32.617537657936396 -117.007142053990265,32.617547317678216 -117.007137230394846,32.617556608965188 -117.007130818133135,32.617566268001099 -117.007126032640997,32.617576275025087 -117.007121244076345,32.617585924081965 -117.007116458334465,32.617595902251779 -117.007111672839059,32.617605909275241 -117.007106887095048,32.617615887444671 -117.007102101597468,32.617625894467785 -117.00709731892259,32.6176362306038 -117.007094188838721,32.617646198598166 -117.00709099790798,32.61765652585396 -117.007086215462195,32.617666889039974 -117.007083056252526,32.617677188147013 -117.007079900337757,32.617687871369647 -117.007076741358716,32.617698197526927 -117.007075208912298,32.617708843721125 -117.007072049931935,32.617719169878264 -117.007070517716656,32.617729843122824 -117.007068966854362,32.617742192793258 -117.007065829350182,32.617751172539229 -117.007064296901532,32.617761818733307 -117.007064388387747,32.617772481999978 -117.007062855938614,32.617783128194048 -117.00706132372116,32.617793801438488 -117.007061414974942,32.617804437654804 -117.007059885588305,32.617815440914121 -117.007059977074022,32.617826104180828 -117.007060068327704,32.617836740397173 -117.007060162644834,32.617847733678765 -117.00706025413065,32.617858396945508 -117.007061969089321,32.617869023184141 -117.007062060575379,32.617879686450891 -117.007063775774469,32.61789034064158 -117.007065493557832,32.617901295993349 -117.00706720875003,32.617911949282338 -117.007068923710591,32.617922575520886 -117.007070605875498,32.617933229012806 -117.007072351033599,32.617943525033503 -117.007074065995369,32.617954151272045 -117.007077404896336,32.61796479458296 -117.007080740734594,32.617975080828614 -117.007084079405033,32.617985697088997 -117.007087415244825,32.617995983334438 -117.007090751085414,32.618006269579865 -117.00709242784859,32.618012443322648 -117.007094086926756,32.618016555825108 -117.007097457802928,32.618027199840824 -117.007155523163092,32.618174573009505 -117.007218571532974,32.618331205122942 -117.007276674922778,32.6184792380703 -117.007331445919448,32.618617369769716 -117.007333107852546,32.618621812283983 -117.007334729093373,32.618625237899764 -117.007338035146716,32.618628323126266 -117.007339694247875,32.618632435625571 -117.007342977068205,32.618636538143441 -117.007346256824235,32.618640283595937 -117.007349527850906,32.618643011953409 -117.007352796045296,32.61864541029589 -117.007356064007666,32.618647781587917 -117.007359332202412,32.618650179930235 -117.007364226949193,32.618652898305655 -117.007369121928448,32.618655643731245 -117.007374010546286,32.618657647975716 -117.007378899396571,32.618659679270444 -117.007383779284908,32.618660666419558 -117.0073886622381,32.618662010633763 -117.007393545191462,32.618663354847769 -117.007398419414869,32.618663681966581 -117.007403296470883,32.6186643391001 -117.007408167629464,32.618664309153296 -117.007414662507557,32.618664269223906 -117.007419530601112,32.618663882211372 -117.007423357769355,32.61866325362314 -117.007426016748695,32.618662825186426 -117.007430878944362,32.61866175109337 -117.007433990383987,32.618660906883541 -117.007427552993292,32.618841796031766 -117.007422664722242,32.61884355740137 -117.007414592699263,32.618845311292169 -117.007408109603062,32.618846725381793 -117.007401626506635,32.618848139471062 -117.007395143649987,32.618849581512102 -117.007388654415763,32.618850280568488 -117.007383789144399,32.618850997594656 -117.007377300149869,32.618851724602564 -117.007370808090613,32.618852094544764 -117.007362692540383,32.618852501518859 -117.007356197648477,32.618852541445492 -117.007349699691844,32.618852224306508 -117.007341578244507,32.618851944199065 -117.007335077455537,32.618851297044458 -117.007328576666666,32.618850649889517 -117.007322073045557,32.618849672719378 -117.007317195979823,32.618849015582654 -117.007310692126808,32.618848011361514 -117.007302555821923,32.618846000025918</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+<Schema name="OGRGeoJSON" id="OGRGeoJSON">
+	<SimpleField name="ParcelID" type="int"></SimpleField>
+	<SimpleField name="APN" type="string"></SimpleField>
+	<SimpleField name="Situs" type="string"></SimpleField>
+	<SimpleField name="DocType" type="string"></SimpleField>
+	<SimpleField name="DocNumber" type="string"></SimpleField>
+	<SimpleField name="DocDate" type="string"></SimpleField>
+	<SimpleField name="MapNumber" type="string"></SimpleField>
+	<SimpleField name="OwnerStatus" type="string"></SimpleField>
+	<SimpleField name="OwnerName" type="string"></SimpleField>
+	<SimpleField name="StreetNo" type="int"></SimpleField>
+	<SimpleField name="AddrFract" type="string"></SimpleField>
+	<SimpleField name="StreetDir" type="string"></SimpleField>
+	<SimpleField name="StreetName" type="string"></SimpleField>
+	<SimpleField name="AddrUnit" type="string"></SimpleField>
+	<SimpleField name="Zone1" type="string"></SimpleField>
+	<SimpleField name="Zone2" type="string"></SimpleField>
+	<SimpleField name="Zone3" type="string"></SimpleField>
+	<SimpleField name="Zone4" type="string"></SimpleField>
+	<SimpleField name="Zone5" type="string"></SimpleField>
+	<SimpleField name="RLUC1" type="string"></SimpleField>
+	<SimpleField name="RLUC2" type="string"></SimpleField>
+	<SimpleField name="RLUC3" type="string"></SimpleField>
+	<SimpleField name="RLUC4" type="string"></SimpleField>
+	<SimpleField name="RLUC5" type="string"></SimpleField>
+	<SimpleField name="SDLUC1" type="string"></SimpleField>
+	<SimpleField name="SDLUC2" type="string"></SimpleField>
+	<SimpleField name="SDLUC3" type="string"></SimpleField>
+	<SimpleField name="SDLUC4" type="string"></SimpleField>
+	<SimpleField name="SDLUC5" type="string"></SimpleField>
+	<SimpleField name="GenPlan1" type="string"></SimpleField>
+	<SimpleField name="GenPlan2" type="string"></SimpleField>
+	<SimpleField name="GenPlan3" type="string"></SimpleField>
+	<SimpleField name="GenPlan4" type="string"></SimpleField>
+	<SimpleField name="GenPlan5" type="string"></SimpleField>
+	<SimpleField name="StudyArea" type="string"></SimpleField>
+	<SimpleField name="SPA" type="string"></SimpleField>
+	<SimpleField name="PC" type="string"></SimpleField>
+	<SimpleField name="Subdivision" type="string"></SimpleField>
+	<SimpleField name="Basin" type="string"></SimpleField>
+	<SimpleField name="AQIP" type="string"></SimpleField>
+	<SimpleField name="Juris" type="string"></SimpleField>
+	<SimpleField name="Comm" type="string"></SimpleField>
+	<SimpleField name="Redev" type="string"></SimpleField>
+	<SimpleField name="Acres1" type="float"></SimpleField>
+	<SimpleField name="Acres2" type="int"></SimpleField>
+	<SimpleField name="Acres3" type="int"></SimpleField>
+	<SimpleField name="Acres4" type="int"></SimpleField>
+	<SimpleField name="Acres5" type="int"></SimpleField>
+	<SimpleField name="AcresTot" type="float"></SimpleField>
+	<SimpleField name="Units1" type="int"></SimpleField>
+	<SimpleField name="Units2" type="int"></SimpleField>
+	<SimpleField name="Units3" type="int"></SimpleField>
+	<SimpleField name="Units4" type="int"></SimpleField>
+	<SimpleField name="Units5" type="int"></SimpleField>
+	<SimpleField name="UnitsTot" type="int"></SimpleField>
+	<SimpleField name="PlannedUnits" type="int"></SimpleField>
+	<SimpleField name="Comments" type="string"></SimpleField>
+	<SimpleField name="BPL" type="string"></SimpleField>
+	<SimpleField name="CensusBlock" type="string"></SimpleField>
+	<SimpleField name="CensusTract" type="string"></SimpleField>
+	<SimpleField name="Lot" type="string"></SimpleField>
+	<SimpleField name="BldgNo" type="string"></SimpleField>
+	<SimpleField name="UCDate" type="string"></SimpleField>
+	<SimpleField name="MapNo" type="string"></SimpleField>
+	<SimpleField name="OldLuiAPN" type="string"></SimpleField>
+	<SimpleField name="ProjectNo" type="string"></SimpleField>
+	<SimpleField name="ProjectName" type="string"></SimpleField>
+	<SimpleField name="SetbacksFront" type="string"></SimpleField>
+	<SimpleField name="SetbacksSide1" type="string"></SimpleField>
+	<SimpleField name="SetbacksSide2" type="string"></SimpleField>
+	<SimpleField name="SetbacksRear" type="string"></SimpleField>
+	<SimpleField name="AuxCode" type="string"></SimpleField>
+	<SimpleField name="TAZ" type="string"></SimpleField>
+	<SimpleField name="Project" type="string"></SimpleField>
+	<SimpleField name="YearBuilt" type="string"></SimpleField>
+	<SimpleField name="MapURL" type="string"></SimpleField>
+	<SimpleField name="HistSiteName" type="string"></SimpleField>
+	<SimpleField name="IsHistSite" type="string"></SimpleField>
+	<SimpleField name="IsHistSurveyed" type="string"></SimpleField>
+	<SimpleField name="IsMillsAct" type="string"></SimpleField>
+	<SimpleField name="HistYearBuilt" type="string"></SimpleField>
+	<SimpleField name="HistHouseName" type="string"></SimpleField>
+	<SimpleField name="HistSiteNo" type="string"></SimpleField>
+	<SimpleField name="HistStatusCode" type="string"></SimpleField>
+	<SimpleField name="HistHouseAddress" type="string"></SimpleField>
+	<SimpleField name="RecID" type="string"></SimpleField>
+	<SimpleField name="OBJECTID" type="int"></SimpleField>
+	<SimpleField name="LIVAREA" type="int"></SimpleField>
+	<SimpleField name="DeferralID" type="string"></SimpleField>
+	<SimpleField name="StreetAddress" type="string"></SimpleField>
+	<SimpleField name="SitusZip" type="string"></SimpleField>
+	<SimpleField name="FmtStreetAddress" type="string"></SimpleField>
+	<SimpleField name="FmtStreetNo" type="int"></SimpleField>
+	<SimpleField name="OwnAddr1" type="string"></SimpleField>
+	<SimpleField name="OwnAddr2" type="string"></SimpleField>
+	<SimpleField name="Book" type="string"></SimpleField>
+	<SimpleField name="Page" type="string"></SimpleField>
+	<SimpleField name="Parcel" type="string"></SimpleField>
+	<SimpleField name="ParcelStatus" type="string"></SimpleField>
+	<SimpleField name="PrimaryParcelFlag" type="string"></SimpleField>
+	<SimpleField name="SourceSeqNbr" type="int"></SimpleField>
+	<SimpleField name="CZone" type="string"></SimpleField>
+	<SimpleField name="FloodPlain" type="string"></SimpleField>
+	<SimpleField name="VHFHZ" type="string"></SimpleField>
+	<SimpleField name="BldInspBeat" type="string"></SimpleField>
+	<SimpleField name="CodeInspBeat" type="string"></SimpleField>
+</Schema>
+</Document></kml>
